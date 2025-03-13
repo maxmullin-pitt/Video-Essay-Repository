@@ -1,8 +1,5 @@
 ## Video Essay Repository
- Video Essay githib
-
-filler  content to be filled out later
-
+ 
 # Summary
 In the introduction I introuce the topic of AI use in the field of artwork.  
 From animation to just general images, the use of AI has seen a giant uptick in the past couple years.
